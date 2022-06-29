@@ -19,23 +19,24 @@ Here are the steps invloved in the project:
 
 6. Experimenting
 
+
 1. Problem Definiton:
 
 How well can we predict the future sale price of a bulldozer, given its characteristics and previous exapmles of how much similar bulldozers have been sold for?
 
-2. Data
+2. Data:
 
  https://www.kaggle.com/competitions/bluebook-for-bulldozers/data
 
-3. Evaluation
+3. Evaluation:
 
 The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 
-4. Features
+4. Features:
 
 Viewing and analysing the features and thier relations
 
-5. Modelling
+5. Modelling and Experimenting:
 
 -->According to the machine learning models, data need to be in numerical form, so we turn string types into category type and then numeric type. After turning every column into numeric type, we fill the missing values.
 
